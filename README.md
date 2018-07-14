@@ -63,10 +63,10 @@ namespace SampleConsoleApp
 
 ## What does the serialized encrypted data from the DualLayerEncryptor look like
 
-'''
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <DualLayerEncryptionPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<EncryptedKey>Ay8UXIDk2BbBgPoiBNqbF5wA8fFXwf/A+AMG2gvAyxOoJASdhTuw4d/b+Gw8iCEuzssmCLvIWr3idjOgv+WURzmPtflyUnwMhFlt177cqAskqzYDJOGTBs+3dpOQRXG+eoBNrZaBl/YfxA/y8GFPmbOMeo8fwQW/374FuRWKhVcEqDyGtSdBcpD8+vWBDto88nJOmkxgdciH5j4hm/y33faKtIz8LTrYy7a0lS+j7OxZcnNg8R2TLLd68+NhfrxGSHE/uVUZ7MkAW3r14mzmGrK+Icowj/CHbwdBB8PI20mfdaLqYQK+CE9PDX8uwDDVpmpe5IWf9By7chLcx6fkIEYtSCj99jMC1+q64LeYQIloXeCm/dTWuligQ5y1NxOCv2LM63INE6b2IUKehRcr+oChgsyIJ0X6VAgrfh+zAULKR7xNKDn9CnCWQ3h0hmb/Uecz4NYWhFCu1HJSAhkkuGcyG23EPm2xIqg10zx7bRYk//hPDVPEzHgQe6nC18WEbgsCmgCGEvQIaPSRMYqUlTJO4oy35xQPZBa5N8l+ADVKUlRYVuJ/hN2wVi37XrrDZePmWEB7ZmhLWa4J5CWMonmKfnIxuBlEp3s+nPkUZTrHe7fDCd0fir5dSlrBvJf4QPL0vBEvRO0T1s2PUSGCsJG7WhPSKffvoM04zT26v2A=</EncryptedKey>
-	<EncryptedMessage>6uVYLq6Qh0lEQQ1HNcNkCw==</EncryptedMessage>
+  <EncryptedKey>cZAkja6eJBu1ENvz2UXsfkD96xi7LHM9Jv6O6amBYDrTu0/GX0NcPaBSu/nIzDWy3ns7rDcI+TgN7ovPxB0FWIK937SLud9AUZ4FP1PQ6AwuK4LQTTL/oT7k/XI2Fjzc7taCoky1eGZBi7Hw7j30nCtKsLWY/JCOF7r407wZ6gmxR8QYG6+SOxy/7a4J+TTKaqEmiMyOGyyu5D1aXGDvTPSacwraH1VAEziSHTbazQUY9rua4s2jSkfvSmEfxu0muo4uKx9ZP9c1OASQ370Duz/kGzNWM2wAKBvCY540UI9D7g3XdBmTffbaaEv1iPgTAb9oi5pNn/DePk2e18ZFHf3nCeOH6uygEE7g9uWkxwvkD/mdP2n4Sf78Z+sLImzukVFpt8uRPkCEk+v4qQmmCxuGCtC9lZ62lGNFs+fq0tl+okUxEMeQbEHykJDPzbbJ1dpFheNCBt1hzqR5Jr1Dd5PNQqncAvc3Ff5cLcKfKSMznEfLjGooUFCnQt6OtOHXm+C+HhzU3CYb2W8er/cw7+FZcviHHDSQRPgcub+tumzvA8DvQOijYfChm+XnDIawPyzcYYrRZWSKUU1Hz1REpyoavMcOcuwkvySh9Nim92sx+a0IzhSwLkuPxwu4bvZ/vGaak7ffqe5QyXZxCEWEA+4eXHPpXjQI4tXcJxzNrE0=</EncryptedKey>
+  <EncryptedMessage>3IXXfgjKJUsKndhLlK3BdQ==</EncryptedMessage>
 </DualLayerEncryptionPackage>
-'''
+```
